@@ -52,6 +52,9 @@ img {
   position: relative;
   font-size: 5rem;
 }
+.logo a img {
+  width: 300px;
+}
 .contact {
   position: relative;
   width: 100%;
@@ -166,7 +169,6 @@ img {
   }
 }
 
-
 /* 반응형 */
 @media screen and (max-width: 900px) {
   .card {
@@ -194,4 +196,4 @@ img {
 }
 /* mobile */
 @media screen and (max-width: 480px) {
-} */
+}
